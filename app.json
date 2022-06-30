@@ -1,0 +1,12 @@
+{
+  "name": "BOTz",
+  "description": "Lightweight WhatsApp Bot",
+  "repository": "https://github.com/Alif135/KiZakiXdV04",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "multi-device",
+    "whatsapp-bot"
+  ]
+}
